@@ -1,3 +1,5 @@
+# Arquivos em dados em xls
+/dados
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
