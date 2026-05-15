@@ -1,4 +1,4 @@
-#Reposítorio para trabalho de exploração dos dados de obras.
+# Reposítorio para trabalho de exploração dos dados de obras.
 ## exploracao_cgimo
 ### Para tratamento de dados do portal de obras 
 
