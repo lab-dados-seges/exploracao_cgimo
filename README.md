@@ -12,3 +12,5 @@ Os dados e informações são suficientes?
 Por que não são suficientes?
 Quais não são suficientes?
 Como corrigir?
+
+##### Todos os dados devem estar na pasta dados
